@@ -1,7 +1,7 @@
-Hi 👋 My name is Kazım İncebay
+Hi 👋 My name is Kazım
 ==============================
 
-Hello. I am interested in web technologies and digital marketing,enterpreneurship.
+I am interested in web technologies and digital marketing,enterpreneurship.
 
 * 🌍  I'm based in İstanbul
 
