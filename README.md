@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazım</h1>
 <h3 align="center">Software Developer</h3>
-<p>I am 24 years old. I have bachelor’s degree Computer Technologies and Information Systems program in Trakya University. I found chance to develop project with C# and Python in my education. I usually develop web projects. I can develop projects with Php, Python, C#, .Net, .Net MVC, .Net Core, .Net Core Web API, Javascript, Angular Technologies.
+<p>Hello, I am Kazım. I usually develop web projects with .Net and Javascript Technologies. 
 
 I am interested in Digital marketing and Financial Applications</p>
 
