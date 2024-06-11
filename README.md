@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazım</h1>
 <h3 align="center">Software Developer</h3>
-<p>Hello, I am Kazım. I usually develop web projects with .Net and Javascript Technologies. 
+<p>Hello, I am Kazım. I usually develop web projects with .Net and Javascript technologies. 
 
 I am interested in Digital marketing and Financial Applications</p>
 
