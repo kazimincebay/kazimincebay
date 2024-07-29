@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kazım</h1>
 <h3 align="center">Software Developer</h3>
-<p>Hello, I am Kazım. I usually develop web projects with .Net and Javascript technologies. 
+<p>Hello, I develop web projects and I am improving myself in front-end technologies. I met different back-end technologies during this time. 
 
-I am interested in Digital marketing and Financial Applications</p>
+I have digital marketing certificates and a boot camp for marketing my software projects. My interest started with my blog project in 2019.
+
+My first software development internship was in banking software so I am interested in financial applications.
+
+Nowadays, I am seeking a job in a software developer position.s</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
