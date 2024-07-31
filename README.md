@@ -6,7 +6,7 @@ I have digital marketing certificates and a boot camp for marketing my software 
 
 My first software development internship was in banking software so I am interested in financial applications.
 
-Nowadays, I am seeking a job in a software developer position.s</p>
+Nowadays, I am seeking a job in a software developer position.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
