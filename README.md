@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kazım</h1>
 <h3 align="center">Software Developer</h3>
-<p>Hello, I develop web projects and I am improving myself in front-end technologies. I met different back-end technologies during this time. 
-
-I have digital marketing certificates and a boot camp for marketing my software projects. My interest started with my blog project in 2019.
-
-My first software development internship was in banking software so I am interested in financial applications.
-
-Nowadays, I am seeking a job in a software developer position.</p>
+<p>Merhabalar, ben Kazım.
+  Çeşitli back-end teknolojilerini (PHP, Django, Flask, .Net, .Net Core) deneyimleme fırsatı 
+buldum. Bu teknolojileri deneyimlerken bir çok projem içerisinde JavaScript teknolojilerini 
+kullandım. JavaScript teknolojileri ile projeler geliştirmeye devam ediyor ve bu alanda 
+gelişimime devam ediyorum. Bunların yanı sıra dijital pazarlama ve finans alanlarına 
+ilgiliyim. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
