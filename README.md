@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazım</h1>
 <h3 align="center">Software Developer</h3>
-<p> I developed web projects with different backend technologies (PHP, Django, Flask, Java, .Net, and .Net Core). I am continually improving my skills in JavaScript Technologies. My main goal is to earn professional experience. Also, I am interested in digital marketing, financial applications and languages. </p>
+<p> I developed web projects with different backend technologies (PHP, Django, Flask, Java, .NET, and .NET Core). I am continually improving my skills in JavaScript Technologies. My main goal is to earn professional experience. Additionally, I am interested in digital marketing, financial applications, and programming languages. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
